@@ -71,6 +71,7 @@ form input[type="submit"] {
 div#header-container {
     width: 100%;
     background: #061844;
+    display: none;
 }
 header#logo-header {
     width: 988px;
@@ -92,7 +93,7 @@ header#logo-header div#right-header-image {
 }
 div#main-nav-container {
     width: 100%;
-    background-color: #8E001C;
+    background-color: #061844;
 }
 nav#main-nav {
     min-height: 35px;
